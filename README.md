@@ -40,6 +40,7 @@
 	1 x 347mm 450 class tailboom (or 12mm carbon rod piece)
 	3 x swashplate servos (I used some cheap Corona 933MG ones, its better to look for smth better, maybe EMAX ES09MD)
 	2 x 8x160mm carbon rod  pieces for skids
+	2 x 450 class blades (325mm)
 	
  That's it guys, enjoy flying!
 	

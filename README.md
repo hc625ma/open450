@@ -4,18 +4,18 @@
  RC helicopters are getting harder to find in local hobby shops, spare parts are scarce, 
  every minor damage to the airframe often grounds one for weeks. On the other hand, drones are everywhere!
  
- Easy to fly, even easier to maintain. But theres a thing they are not particularly good at - that is, 
- replacing the collective pitch helicopter. If you want to fly rc helicopters badly, but the whole idea seems
+ Easy to fly, even easier to maintain. But there's a thing they are not particularly good at - that is, 
+ replacing the collective pitch helicopter. If you want to fly RC helicopters badly, but the whole idea seems
  too expensive and complicated - this is probably a nice starter machine for you.
 
  
  So, this is an attempt to take the best from both worlds: maintainability of drones where we have little 
- unique airframe/electronics parts - and the look and feel of rc helicopters.
+ unique airframe/electronics parts - and the look and feel of RC helicopters.
  
  ![alt text](https://github.com/hc625ma/open450/blob/main/open450.png?raw=true)
  
  This machine uses a small tail motor from a race quad to reduce the number of mechanical parts 
- that can break during a crash. Actually the only helicopter-specific part you will need is some
+ that can break during a crash. Actually, the only helicopter-specific part you will need is some
  trex 450 clone rotor head assembly with the main mast and gears!
  
  At the moment, I used the head from my old hk450v2, 
@@ -24,6 +24,8 @@
  
  No assembly manual yet, but parts should be pretty self-explanatory, just build it like any other 450, 
  plenty of videos on youtube =)
+ 
+ The weight is currently at ~840g with 2200mAh battery fitted.
  
  You will need:
  
